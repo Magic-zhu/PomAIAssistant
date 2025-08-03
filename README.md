@@ -17,8 +17,10 @@ A private AI assistant that comes when called and leaves when dismissed, focused
 - **Prompt Management**: Easily manage your prompts.
 - **Attachment Upload**: Upload files as attachments.
 - **AI & Everything File Search**: Search files using AI and Everything integration.
-- **Save Useful Answers to Favorites**: Bookmark useful answers to history favorites (edit & export coming soon).
+- **Save Useful Answers to Favorites**: Bookmark useful answers to history favorites,edit & export.
 - **Knowledge Card Generation**: Generate knowledge cards (coming soon).
+- **Autonomous Long Short-Term Memory**: coming soon
+- **RAG**: coming soon
 
 ## 📝 Usage
 
