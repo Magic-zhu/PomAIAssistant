@@ -1,49 +1,51 @@
-# Pomegranate AI Assistant
+[English](./README_EN.md)
 
-A private AI assistant that comes when called and leaves when dismissed, focused on data privacy, strive for simplicity and fun
+# 小石榴 AI 助手
 
-**PomAIAssistant**: Your Always-Ready, privacy-first AI Assistant\*\*
+呼之即来挥之即去的私人 AI 助手，专注于数据隐私，追求极致简洁与趣味
+
+**小石榴 AI 助手**：您的随时待命、隐私优先的 AI 助手
 
 ![alt text](image.png)
 
-## 🔒 Privacy by Design
+## 🔒 隐私至上
 
-- **No Data Collection**: No information will be collected.
-- **Local Forever**: All your data stays local (no cloud uploads).
+- **不收集数据**：不会收集任何信息。
+- **始终本地**：所有数据仅保存在本地（不上传云端）。
 
-## 🚀 Features
+## 🚀 功能
 
-- **Basic AI Chat**: Simple and effective AI conversations.
-- **Prompt Management**: Easily manage your prompts.
-- **Attachment Upload**: Upload files as attachments.
-- **AI & Everything File Search**: Search files using AI and Everything integration.
-- **Save Useful Answers to Favorites**: Bookmark useful answers to history favorites,edit & export.
-- **Knowledge Card Generation**: Generate knowledge cards (coming soon).
-- **Autonomous Long Short-Term Memory**: coming soon
-- **RAG**: coming soon
+- **基本 AI 对话**：简单高效的 AI 交流。
+- **提示词管理**：轻松管理您的提示词。
+- **附件上传**：支持文件作为附件上传。
+- **AI 与 Everything 文件搜索**：结合 AI 和 Everything 进行文件搜索。
+- **收藏有用回答**：将有用的回答收藏到历史收藏，编辑与导出。
+- **知识卡片生成**：生成知识卡片（即将上线）。
+- **自主长短期记忆** ：coming soon
+- **RAG**：coming soon
 
-## 📝 Usage
+## 📝 使用方法
 
-[Download Here](https://github.com/Magic-zhu/PomAIAssistant/releases)
+[下载地址](https://github.com/Magic-zhu/PomAIAssistant/releases)
 
-1. Download zip file.
-2. Unzip the file to a folder.
-3. Open the `PomAiAssistant.exe` file.
-4. Configure the model.
-5. Enter your command in the input box.
-6. Press Enter to execute the command.
-7. Get what you want to know.
-8. Press Ctrl+Space to bye bye 😊~.
+1. 下载zip文件。
+2. 解压到任意文件夹。
+3. 打开 `PomAiAssistant.exe` 文件。
+4. 配置模型。
+5. 在输入框中输入您的指令。
+6. 按下 Enter 键执行命令。
+7. 获取您想知道的信息。
+8. 按 Ctrl+Space 关闭助手 😊~。
 
-## 📌 Shortcuts
+## 📌 快捷键
 
-| ⌨️ Shortcut Key      | Function (English)                                 |
-| -------------------- | -------------------------------------------------- |
-| Ctrl+Space           | Show/Hide Window                                   |
-| ArrowDown (in input) | Show Suggestion List; `Enter` to select suggestion |
-| Ctrl+K               | Clear Context and Messages                         |
-| Alt+F                | Focus Input                                        |
-| Ctrl+F               | Open File Finder Tool                              |
-| Ctrl+Q               | Exit File Finder Tool                              |
-| F1                   | Switch to Main Chat Interface                      |
-| F2                   | Switch to Model Selection Interface                |
+| ⌨️ 快捷键           | 功能说明                     |
+| ------------------- | ---------------------------- |
+| Ctrl+Space          | 唤出/隐藏窗口                |
+| ArrowDown（输入框） | 唤出提示词列表，`Enter` 选中 |
+| Ctrl+K              | 清除上下文和消息             |
+| Alt+F               | 聚焦输入框                   |
+| Ctrl+F              | 打开文件查找工具             |
+| Ctrl+Q              | 退出文件查找工具             |
+| F1                  | 切换到主对话界面             |
+| F2                  | 切换到模型选择界面           |
