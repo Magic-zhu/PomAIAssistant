@@ -1,51 +1,59 @@
-[English](./README_EN.md)
+[简体中文](./README_CN.md)
 
-# 小石榴 AI 助手
+# Pomegranate AI Assistant
 
-呼之即来挥之即去的私人 AI 助手，专注于数据隐私，追求极致简洁与趣味
+A private AI assistant that comes when called and leaves when dismissed, focused on data privacy, strive for simplicity and fun
 
-**小石榴 AI 助手**：您的随时待命、隐私优先的 AI 助手
+## 🆓 Freely Experience Various Models! 🤩✨
 
-![alt text](image.png)
+![alt text](/img/image.png)
 
-## 🔒 隐私至上
+## 🔒 Privacy First
 
-- **不收集数据**：不会收集任何信息。
-- **始终本地**：所有数据仅保存在本地（不上传云端）。
+- **No Data Collection**: No information is collected.
+- **Always Local**: All data is stored locally (never uploaded to the cloud).
 
-## 🚀 功能
+## 🚀 Basic Features
 
-- **基本 AI 对话**：简单高效的 AI 交流。
-- **提示词管理**：轻松管理您的提示词。
-- **附件上传**：支持文件作为附件上传。
-- **AI 与 Everything 文件搜索**：结合 AI 和 Everything 进行文件搜索。
-- **收藏有用回答**：将有用的回答收藏到历史收藏，编辑与导出。
-- **知识卡片生成**：生成知识卡片（即将上线）。
-- **自主长短期记忆** ：coming soon
-- **RAG**：coming soon
+- **Basic AI Conversation**  
+   Simple and efficient AI interaction experience.
+- **Prompt Management**  
+   Easily manage and use various prompts to improve efficiency.
+- **Attachment Upload**  
+   Support for uploading files as attachments to assist conversations and knowledge processing.
+- **AI & Everything File Search**  
+   Combine AI understanding with the Everything tool for intelligent local file search.
+- **Favorite Useful Answers**  
+   Save useful answers to your favorites, edit and export them for future reference.
+- **Knowledge Card Generation**  
+   Automatically generate knowledge cards to help organize and review key information.
 
-## 📝 使用方法
+## 🧠 Advanced Features
 
-[下载地址](https://github.com/Magic-zhu/PomAIAssistant/releases)
+- **Autonomous Memory**  
+   When enabled, AI can automatically extract key information from conversations and remember it locally, continuously enhancing its capabilities.
+- **RAG (Retrieval-Augmented Generation)**  
+   Supports local knowledge base with hybrid retrieval using dense vectors, sparse features, and BM25 to improve knowledge acquisition.
 
-1. 下载zip文件。
-2. 解压到任意文件夹。
-3. 打开 `PomAiAssistant.exe` 文件。
-4. 配置模型。
-5. 在输入框中输入您的指令。
-6. 按下 Enter 键执行命令。
-7. 获取您想知道的信息。
-8. 按 Ctrl+Space 关闭助手 😊~。
+## 📝 Download
 
-## 📌 快捷键
+- [Download from Github](https://github.com/Magic-zhu/PomAIAssistant/releases)
+- [Download from Baidu Netdisk](https://pan.baidu.com/s/1KuCwatlTPAf4uVUFB1xCEQ?pwd=1234)
 
-| ⌨️ 快捷键           | 功能说明                     |
-| ------------------- | ---------------------------- |
-| Ctrl+Space          | 唤出/隐藏窗口                |
-| ArrowDown（输入框） | 唤出提示词列表，`Enter` 选中 |
-| Ctrl+K              | 清除上下文和消息             |
-| Alt+F               | 聚焦输入框                   |
-| Ctrl+F              | 打开文件查找工具             |
-| Ctrl+Q              | 退出文件查找工具             |
-| F1                  | 切换到主对话界面             |
-| F2                  | 切换到模型选择界面           |
+## 📖 Documentation
+
+## 📌 Shortcuts
+
+| ⌨️ Shortcut           | Description                                    |
+| --------------------- | ---------------------------------------------- |
+| Ctrl+Space            | Show/Hide Window                               |
+| ArrowDown (Input Box) | Show prompt list, `Enter` to select            |
+| Ctrl+K                | Clear context and messages                     |
+| Alt+F                 | Focus on input box                             |
+| Ctrl+F                | Open file search tool                          |
+| Ctrl+Q                | Exit file search tool                          |
+| F1                    | Switch to main conversation interface          |
+| F2                    | Switch to model selection interface            |
+| Tab                   | Focus on input box or open quick function menu |
+
+---
