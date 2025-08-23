@@ -6,7 +6,7 @@ A private AI assistant that comes when called and leaves when dismissed, focused
 
 ## 🆓 Freely Experience Various Models! 🤩✨
 
-![alt text](/img/image.png)
+![main](/image.png)
 
 ## 🔒 Privacy First
 
