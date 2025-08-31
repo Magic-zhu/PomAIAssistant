@@ -16,7 +16,8 @@ A private AI assistant that comes when called and leaves when dismissed, focused
 ## 🚀 Basic Features
 
 - **Basic AI Conversation**  
-   Simple and efficient AI interaction experience.
+   Simple and efficient AI interaction experience.  
+   Mermaid chart and formula rendering support `0.0.21+`
 - **Prompt Management**  
    Easily manage and use various prompts to improve efficiency.
 - **Attachment Upload**  
