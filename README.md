@@ -28,6 +28,8 @@ A private AI assistant that comes when called and leaves when dismissed, focused
    Save useful answers to your favorites, edit and export them for future reference.
 - **Knowledge Card Generation**  
    Automatically generate knowledge cards to help organize and review key information.
+- **Quick Launch** `0.0.24+`
+  Supports the quick launch of local apps, files, and folders
 
 ## 🧠 Advanced Features
 
